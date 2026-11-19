@@ -1,0 +1,13 @@
+{
+  "name": "api-imagenes-personajes",
+  "version": "1.0.0",
+  "description": "API REST de personajes de FNAF, Crash Bandicoot y GTA San Andreas, con imágenes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}

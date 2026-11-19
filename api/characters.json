@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1,
+    "name": "Freddy Fazbear",
+    "initials": "FF",
+    "game": "Five Nights at Freddy's",
+    "franchise": "FNAF",
+    "role": "Animatrónico principal de Freddy Fazbear's Pizza",
+    "description": "Oso animatrónico líder del grupo. Es uno de los personajes más reconocidos de la saga de terror.",
+    "tags": ["animatronic", "horror", "bear"]
+  },
+  {
+    "id": 2,
+    "name": "Bonnie",
+    "initials": "BO",
+    "game": "Five Nights at Freddy's",
+    "franchise": "FNAF",
+    "role": "Animatrónico conejo",
+    "description": "Conejo morado que suele intentar entrar a la oficina por la puerta izquierda.",
+    "tags": ["animatronic", "horror", "rabbit"]
+  },
+  {
+    "id": 3,
+    "name": "Foxy",
+    "initials": "FO",
+    "game": "Five Nights at Freddy's",
+    "franchise": "FNAF",
+    "role": "Animatrónico pirata",
+    "description": "Zorro pirata que corre por el pasillo cuando el jugador no revisa las cámaras.",
+    "tags": ["animatronic", "horror", "fox"]
+  },
+  {
+    "id": 4,
+    "name": "Springtrap",
+    "initials": "ST",
+    "game": "Five Nights at Freddy's 3",
+    "franchise": "FNAF",
+    "role": "Animatrónico antagonista",
+    "description": "Traje de conejo animatrónico ocupado por el antagonista principal de FNAF 3.",
+    "tags": ["animatronic", "horror", "villain"]
+  },
+  {
+    "id": 5,
+    "name": "Crash Bandicoot",
+    "initials": "CB",
+    "game": "Crash Bandicoot",
+    "franchise": "Crash",
+    "role": "Protagonista",
+    "description": "Bandicoot mutante que busca frustrar los planes del Dr. Neo Cortex.",
+    "tags": ["platformer", "marsupial", "hero"]
+  },
+  {
+    "id": 6,
+    "name": "Coco Bandicoot",
+    "initials": "CO",
+    "game": "Crash Bandicoot",
+    "franchise": "Crash",
+    "role": "Hermana de Crash",
+    "description": "Hermana de Crash, hábil hacker y compañera en varias aventuras.",
+    "tags": ["platformer", "marsupial", "hero"]
+  },
+  {
+    "id": 7,
+    "name": "Aku Aku",
+    "initials": "AA",
+    "game": "Crash Bandicoot",
+    "franchise": "Crash",
+    "role": "Máscara mágica",
+    "description": "Máscara espiritual que protege a Crash y le otorga poderes temporales.",
+    "tags": ["platformer", "mask", "ally"]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Neo Cortex",
+    "initials": "NC",
+    "game": "Crash Bandicoot",
+    "franchise": "Crash",
+    "role": "Villano principal",
+    "description": "Científico loco que busca dominar el mundo con sus inventos.",
+    "tags": ["platformer", "villain", "scientist"]
+  },
+  {
+    "id": 9,
+    "name": "Carl 'CJ' Johnson",
+    "initials": "CJ",
+    "game": "Grand Theft Auto: San Andreas",
+    "franchise": "GTA",
+    "role": "Protagonista",
+    "description": "Regresa a Los Santos tras la muerte de su madre y se ve envuelto en conflictos con pandillas y corrupción policial.",
+    "tags": ["open-world", "crime", "hero"]
+  },
+  {
+    "id": 10,
+    "name": "Sweet Johnson",
+    "initials": "SJ",
+    "game": "Grand Theft Auto: San Andreas",
+    "franchise": "GTA",
+    "role": "Hermano de CJ",
+    "description": "Hermano mayor de CJ, líder de la familia Grove Street.",
+    "tags": ["open-world", "crime", "ally"]
+  },
+  {
+    "id": 11,
+    "name": "Big Smoke",
+    "initials": "BS",
+    "game": "Grand Theft Auto: San Andreas",
+    "franchise": "GTA",
+    "role": "Traidor",
+    "description": "Antiguo miembro de Grove Street que termina aliado con los traficantes de drogas.",
+    "tags": ["open-world", "crime", "villain"]
+  },
+  {
+    "id": 12,
+    "name": "Frank Tenpenny",
+    "initials": "FT",
+    "game": "Grand Theft Auto: San Andreas",
+    "franchise": "GTA",
+    "role": "Policía corrupto",
+    "description": "Oficial corrupto de la policía de Los Santos y antagonista de la historia.",
+    "tags": ["open-world", "crime", "villain"]
+  },
+  {
+    "id": 13,
+    "name": "Mario",
+    "initials": "MA",
+    "game": "Super Mario Bros.",
+    "franchise": "MARIO",
+    "role": "Protagonista",
+    "description": "Fontanero italiano que salva el Reino Champiñón de Bowser en la mayoría de sus aventuras.",
+    "tags": ["platformer", "hero", "plumber"]
+  },
+  {
+    "id": 14,
+    "name": "Luigi",
+    "initials": "LU",
+    "game": "Super Mario Bros.",
+    "franchise": "MARIO",
+    "role": "Hermano de Mario",
+    "description": "Hermano menor de Mario, más alto y miedoso, que a menudo lo acompaña en sus aventuras.",
+    "tags": ["platformer", "hero", "plumber"]
+  },
+  {
+    "id": 15,
+    "name": "Princess Peach",
+    "initials": "PP",
+    "game": "Super Mario Bros.",
+    "franchise": "MARIO",
+    "role": "Princesa del Reino Champiñón",
+    "description": "Gobernante del Reino Champiñón, constantemente secuestrada por Bowser.",
+    "tags": ["platformer", "royalty", "ally"]
+  },
+  {
+    "id": 16,
+    "name": "Toad",
+    "initials": "TO",
+    "game": "Super Mario Bros.",
+    "franchise": "MARIO",
+    "role": "Ayudante",
+    "description": "Habitante del Reino Champiñón que sirve como ayudante y guía de Mario.",
+    "tags": ["platformer", "mushroom", "ally"]
+  },
+  {
+    "id": 17,
+    "name": "Toadette",
+    "initials": "TD",
+    "game": "Mario Kart Wii",
+    "franchise": "MARIO",
+    "role": "Corredora",
+    "description": "Personaje del Reino Champiñón que aparece en los juegos de carreras de Mario Kart.",
+    "tags": ["racing", "mushroom", "ally"]
+  },
+  {
+    "id": 18,
+    "name": "Yoshi",
+    "initials": "YO",
+    "game": "Super Mario World",
+    "franchise": "MARIO",
+    "role": "Dinosaurio aliado",
+    "description": "Dinosaurio verde que puede comerse a los enemigos con su lengua y montarse en él.",
+    "tags": ["platformer", "dinosaur", "ally"]
+  },
+  {
+    "id": 19,
+    "name": "Bowser",
+    "initials": "BW",
+    "game": "Super Mario Bros.",
+    "franchise": "MARIO",
+    "role": "Villano principal",
+    "description": "Rey de los Koopas y antagonista principal de la saga, que busca secuestrar a la princesa Peach.",
+    "tags": ["platformer", "villain", "koopa"]
+  },
+  {
+    "id": 20,
+    "name": "Bowser Jr.",
+    "initials": "BJ",
+    "game": "Super Mario Sunshine",
+    "franchise": "MARIO",
+    "role": "Hijo de Bowser",
+    "description": "Hijo de Bowser que aparece como antagonista secundario en varios juegos de Mario.",
+    "tags": ["platformer", "villain", "koopa"]
+  },
+  {
+    "id": 21,
+    "name": "Wario",
+    "initials": "WA",
+    "game": "Super Mario Land 2: 6 Golden Coins",
+    "franchise": "MARIO",
+    "role": "Rival de Mario",
+    "description": "Rival de Mario que busca riquezas y aparece en juegos propios como Wario Land y WarioWare.",
+    "tags": ["platformer", "rival", "greedy"]
+  },
+  {
+    "id": 22,
+    "name": "Waluigi",
+    "initials": "WL",
+    "game": "Mario Tennis",
+    "franchise": "MARIO",
+    "role": "Rival de Luigi",
+    "description": "Rival de Luigi, conocido por su estilo travieso y su aparición en juegos deportivos y de carreras.",
+    "tags": ["sports", "rival", "mischief"]
+  },
+  {
+    "id": 23,
+    "name": "Donkey Kong",
+    "initials": "DK",
+    "game": "Donkey Kong",
+    "franchise": "MARIO",
+    "role": "Gorila",
+    "description": "Gorila que aparece en el juego original de 1981 y se convirtió en protagonista de la serie Donkey Kong Country.",
+    "tags": ["platformer", "ape", "hero"]
+  },
+  {
+    "id": 24,
+    "name": "Diddy Kong",
+    "initials": "DI",
+    "game": "Donkey Kong Country",
+    "franchise": "MARIO",
+    "role": "Mono aliado",
+    "description": "Primo de Donkey Kong, con gorra roja, que lo acompaña en las aventuras de Donkey Kong Country.",
+    "tags": ["platformer", "monkey", "ally"]
+  },
+  {
+    "id": 25,
+    "name": "Rosalina",
+    "initials": "RO",
+    "game": "Super Mario Galaxy",
+    "franchise": "MARIO",
+    "role": "Guardiana del cosmos",
+    "description": "Protectora del cosmos que cuida a los Lumas y aparece en Super Mario Galaxy.",
+    "tags": ["platformer", "space", "ally"]
+  },
+  {
+    "id": 26,
+    "name": "Daisy",
+    "initials": "DA",
+    "game": "Super Mario Land",
+    "franchise": "MARIO",
+    "role": "Princesa de Sarasaland",
+    "description": "Princesa del reino de Sarasaland, que aparece en juegos de deportes y carreras de Mario.",
+    "tags": ["platformer", "royalty", "ally"]
+  },
+  {
+    "id": 27,
+    "name": "Sans",
+    "initials": "SA",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Esqueleto",
+    "description": "Esqueleto perezoso y bromista que vive en Snowdin y es hermano de Papyrus.",
+    "tags": ["rpg", "skeleton", "joker"]
+  },
+  {
+    "id": 28,
+    "name": "Papyrus",
+    "initials": "PA",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Esqueleto",
+    "description": "Hermano de Sans, entusiasta y aspirante a Guardia Real.",
+    "tags": ["rpg", "skeleton", "ally"]
+  },
+  {
+    "id": 29,
+    "name": "Frisk",
+    "initials": "FR",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Protagonista",
+    "description": "Niño o niña que cae al Subsuelo y puede elegir entre pacifismo o violencia.",
+    "tags": ["rpg", "human", "hero"]
+  },
+  {
+    "id": 30,
+    "name": "Toriel",
+    "initials": "TR",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Cabra guardiana",
+    "description": "Madre adoptiva de Frisk, guardiana de las Ruinas y figura maternal del juego.",
+    "tags": ["rpg", "monster", "ally"]
+  },
+  {
+    "id": 31,
+    "name": "Asriel Dreemurr",
+    "initials": "AS",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Príncipe monstruo",
+    "description": "Hijo de Toriel y Asgore, con un papel central en la historia del Subsuelo.",
+    "tags": ["rpg", "monster", "prince"]
+  },
+  {
+    "id": 32,
+    "name": "Undyne",
+    "initials": "UN",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Capitana de la Guardia Real",
+    "description": "Pez guerrera y capitana de la Guardia Real, que persigue a Frisk con determinación.",
+    "tags": ["rpg", "fish", "warrior"]
+  },
+  {
+    "id": 33,
+    "name": "Alphys",
+    "initials": "AL",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Científica real",
+    "description": "Científica de la corte real que diseña proyectos para Asgore.",
+    "tags": ["rpg", "lizard", "scientist"]
+  },
+  {
+    "id": 34,
+    "name": "Flowey",
+    "initials": "FL",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Flor parlante",
+    "description": "Flor amarilla que aparece al inicio del juego con intenciones inquietantes.",
+    "tags": ["rpg", "flower", "villain"]
+  },
+  {
+    "id": 35,
+    "name": "Asgore Dreemurr",
+    "initials": "AG",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Rey de los monstruos",
+    "description": "Rey de los monstruos que busca romper la barrera para liberar a su pueblo.",
+    "tags": ["rpg", "monster", "king"]
+  },
+  {
+    "id": 36,
+    "name": "Mettaton",
+    "initials": "ME",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Robot famoso",
+    "description": "Robot con aspiraciones de estrella de televisión que aparece en Hotland.",
+    "tags": ["rpg", "robot", "celebrity"]
+  },
+  {
+    "id": 37,
+    "name": "Napstablook",
+    "initials": "NA",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Fantasma",
+    "description": "Fantasma tímido que vive en Ruinas y se encuentra deprimido.",
+    "tags": ["rpg", "ghost", "shy"]
+  },
+  {
+    "id": 38,
+    "name": "Temmie",
+    "initials": "TE",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Criatura de la Villa Temmie",
+    "description": "Criatura con habla peculiar que habita la Villa Temmie.",
+    "tags": ["rpg", "monster", "joker"]
+  },
+  {
+    "id": 39,
+    "name": "Muffet",
+    "initials": "MU",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Araña comerciante",
+    "description": "Araña que regenta una pastelería en el Bosque Muffet y vende sus productos a los viajeros.",
+    "tags": ["rpg", "spider", "merchant"]
+  },
+  {
+    "id": 40,
+    "name": "Mad Dummy",
+    "initials": "MD",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Muñeco enfadado",
+    "description": "Muñeco de peluche que habla en la forma de un espíritu y aparece en el juego.",
+    "tags": ["rpg", "ghost", "enemy"]
+  },
+  {
+    "id": 41,
+    "name": "Monster Kid",
+    "initials": "MK",
+    "game": "Undertale",
+    "franchise": "UNDERTALE",
+    "role": "Niño monstruo",
+    "description": "Monstruo joven que se encuentra a lo largo del Subsuelo y admira a Frisk.",
+    "tags": ["rpg", "monster", "child"]
+  },
+  {
+    "id": 42,
+    "name": "Bendy",
+    "initials": "BE",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Protagonista",
+    "description": "Personaje de dibujos animados de tinta que es el protagonista de la historia de Joey Drew Studios.",
+    "tags": ["horror", "cartoon", "ink"]
+  },
+  {
+    "id": 43,
+    "name": "Boris the Wolf",
+    "initials": "BR",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Personaje aliado",
+    "description": "Lobo de dibujos animados que se une al jugador en su recorrido por el estudio.",
+    "tags": ["horror", "cartoon", "ally"]
+  },
+  {
+    "id": 44,
+    "name": "Alice Angel",
+    "initials": "AN",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Estrella de dibujos animados",
+    "description": "Personaje de dibujos animados de los años treinta que aparece en la historia del estudio.",
+    "tags": ["horror", "cartoon", "star"]
+  },
+  {
+    "id": 45,
+    "name": "Henry Stein",
+    "initials": "HS",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Animador",
+    "description": "Animador de Joey Drew Studios que regresa al estudio tiempo después de haber trabajado allí.",
+    "tags": ["horror", "human", "animator"]
+  },
+  {
+    "id": 46,
+    "name": "Sammy Lawrence",
+    "initials": "SL",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "Bendy",
+    "role": "Animador",
+    "description": "Animador de Joey Drew Studios que busca a su desaparecido amigo Henry.",
+    "tags": ["horror", "human", "animator"]
+  },
+  {
+    "id": 47,
+    "name": "Joey Drew",
+    "initials": "JD",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Fundador del estudio",
+    "description": "Fundador de Joey Drew Studios, creador de Bendy y figura central del misterio del juego.",
+    "tags": ["horror", "human", "founder"]
+  },
+  {
+    "id": 48,
+    "name": "The Projectionist",
+    "initials": "PR",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Enemigo",
+    "description": "Criatura de tinta que aparece como enemigo en los niveles del estudio.",
+    "tags": ["horror", "monster", "enemy"]
+  },
+  {
+    "id": 49,
+    "name": "Searcher",
+    "initials": "SE",
+    "game": "Bendy and the Ink Machine",
+    "franchise": "BENDY",
+    "role": "Enemigo",
+    "description": "Criatura de tinta que persigue al jugador por los pasillos del estudio.",
+    "tags": ["horror", "monster", "enemy"]
+  },
+  {
+    "id": 50,
+    "name": "kenny",
+    "initials": "KY",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "Pistola parlante",
+    "description": "Kenny es un Gatlian, una especie de arma viva que se asemeja a una pistola terrestre, originario del planeta Gatlus. Nacido en un mundo aislado donde era considerado un perdedor, Kenny deseaba demostrar su utilidad y fue reclutado por el contrabandista alienígena Rel Delmar, quien le implantó un chip inhibidor que le impedía hablar hasta que, años después en la Tierra, este se dañó accidentalmente durante un asesinato, permitiendo que Kenny hablara por primera vez. En la narrativa de High On Life, Kenny es el deuteragonista y el arma inicial del cazador de recompensas, ayudándole a combatir al villano Garmantuous.  Su ausencia en el DLC High On Knife y la secuela se explica en la historia porque el protagonista lo dejó caer durante una misión dos años después de los eventos originales, aunque en la vida real su personaje fue eliminado porque su actor de voz, Justin Roiland, fue despedido del estudio Squanch Games. ",
+    "tags": ["shooter", "comedy", "ally"]
+  },
+  {
+    "id": 51,
+    "name": "Maximiliano Sanches Ramirez",
+    "initials": "MSR",
+    "game": "Maxi lore",
+    "franchise": "MAXI_LORE",
+    "role": "Protagonista",
+    "description": "La saga del Maxi Lore narra la evolución de su protagonista a través de cuatro libros: comienza descubriendo el expansivo Interuniverso y forjando una reputación llena de hazañas y errores, continúa buscando un nuevo propósito al intentar enmendar sus cabos sueltos, explora los retos de su paternidad, y culmina con su captura, juicio final y el traspaso de su legado y deudas a su hija. Este multiverso, construido reinterpretando elementos de otras franquicias, funciona mediante un sistema de capas cósmicas donde los universos se clasifican por prefijos que dictan su nivel de realismo (de la lógica \"A\" a la absurda \"Z\") y donde las diferentes realidades jamás colisionan. Maxi es un joven de actitud inmadura y humor como mecanismo de defensa, marcado por haber sido soldado a los 15 años, lo que le dejó ansiedad postraumática y un sadismo latente. A nivel técnico es un brillante ingeniero creador de la infalible Tecnología Maxine, estratega y alquimista, aunque su adicción a las pociones destruyó su ADN causándole Retención Genética (una severa infertilidad) e inmunidad a cualquier efecto curativo. Pese a sus traumas y extrañas fobias, enfrenta los peligros armado con su amada espada de Terraria, el Filo de la Noche Verdadero (bautizada en secreto como Nyx), su amor fundamental por la pizza, y peculiaridades físicas como emitir luz por los ojos tras ser cegado por explosiones aturdidoras.",
+    "tags": ["OC", "terraria", "pizza tower"]
+  },
+  {
+    "id": 52,
+    "name": "G4RRY R0DR1GR3S",
+    "initials": "GR",
+    "game": "Bottale",
+    "franchise": "BOTTALES",
+    "role": "Protagonista",
+    "description": "inicio del lore: G4rry, una maquina independiente pero torpe, con amnesia, llegando al mundo de una especie llamada textus cado le (cronembergs) alli es donde conoce a hunk shrodinguerg, sobreviviente de ese lugar, asi entre ellos tratando de ayudar a garry a que llegue al planeta tierra, de pura suerte logrando sobrevivir y eliminando enemigos como los vukiz, duki duki eaters, y los mas peligrosos, senkaidul´s, un gigante ciclope... al lograr escapar, G4rry y hunk llegan de santos a la tierra, antes de irse... Hunk le regala su arma: El filo de la noche decodificado... un arma creada por el y nombrada por el mismo... y asi es que como garry se adentra a la tierra, tratando de ganarse la vida de una forma u otra mientras hace amigos en el camino y recupera la memoria, mientras a futuro no sabe los rivales a enfrentar y mejorar sus habilidades para lograr buscar un destino.",
+    "tags": ["robot", "incompetente", "OC"]
+  },
+  {
+    "id": 53,
+    "name": "Mungus",
+    "initials": "M",
+    "game": "Maxi lore",
+    "franchise": "MAXI_LORE",
+    "role": "Protagonista",
+    "description": "Mungus es un tripulante que surgío de una granja de contenido infantil, pero gracias a que un cable se desconectó adquirió conciencia. Mungus escapó a otro universo en busca de una nueva identidad. Hasta que se topa con Maxi, y junto a él y los otros dos protagonistas se buscan un lugar en el Interuniverso.",
+    "tags": ["su gnoma", "Maxi", "OC"]
+  },
+  {
+    "id": 54,
+    "name": "Gary silly war machine",
+    "initials": "GSWM",
+    "game": "Bottale",
+    "franchise": "BOTTALES",
+    "role": "secundario",
+    "description": "Gary, silly war machine una maquina pequeña que fue creada por brazil, esta es un intento de recrear al protagonista, como es algo mas escurridizo que cualquier otro personaje de la historia, sus gustos son las pizzas mexicanas, y la gallina pinta, un platillo que le sugirio probar G4rry, el robot posee una edad de 3 años de creación, en parte del lore es un apoyo muy importante, su manera de existir es usando baterias AA, este a la forma de pelear es como un manga de japon como arale, el robotsito tiene un pequeño romanse con un holograma, la cual describe como: El holograma que supero la bellesza de las ms-universe",
+    "tags": ["Garry", "Robot", "OC"]
+  },
+  {
+    "id": 55,
+    "name": "Growell osborn",
+    "initials": "GO",
+    "game": "Bottale",
+    "franchise": "BOTTALES",
+    "role": "antagonista",
+    "description": "Growell osborn, personaje antagonico de B0T-T4L3S. un personaje de videojuego retro el cual por un medico brujo fue sacado de su codigo... este sin proposito el medico brujo aprochecho y le dio info de que mundo es este,  dandole un proposito que es generar caos con el poder que posee el del heavy metal, portado un mazo de plasma y una guitara gibson flying V, llamada la guitarra del destino, junto la pua del demonio, sacada del colmillo del ente... este es manipulado finguiendo que es por el bien y que pueda salir de este mundo corrupto... sus gustos son una cerveza helada en un tarro, unas alitas de pollo con salsa macha, le gusta... adivinaste el metal...",
+    "tags": ["Malo", "Robot", "OC"]
+  },
+  {
+    "id": 56,
+    "name": "Jonathan",
+    "initials": "JPR",
+    "game": "Maxi lore",
+    "franchise": "MAXI_LORE",
+    "role": "dios",
+    "description": "Jonathan es un ser obnipotente, un ente que casi nadie puede persivir, pero todos saben que el los obserba, con mucha, mucha, mucha atencion. asi que recuerda que cualquier paso en falso, y puedes despertar su gran ira",
+    "tags": ["persona", "maxi lore", "reprobado"]
+  },
+  {
+    "id": 57,
+    "name": "Wubu",
+    "initials": "W",
+    "game": "Maxi lore",
+    "franchise": "MAXI_LORE",
+    "role": "mascota",
+    "description": "Wubu es una radio rosa levitante, con actitud y personalidad de gato, aunque ella es inteligente. Es una radio multiusos bastante versátil, pues tiene: Bocinas, Linterna, Radio, Proyector en los ojos, Reproductor Casete, DVD y USB, Táser, Soldador, Pantalla, Entrada AUX, Acceso a internet, Sus ojos con pantallas, linternas y proyector. Su boca es compatible con casetes, DVDs y USBs. Su antena es una cola de gato, soldador y táser. A pesar de ser una máquina, sí necesita comida y bebida orgánica. No funciona mediante algoritmos, si no que tiene un cerebro real en el espectro de alma. No tiene batería, funciona sola y no tiene un tiempo de vida útil como tal. Wubu, antes de ser quien es, fue una gata negra que ayudó en una guerra civil como una espía. Lamentablemente fue atrapada y sacrificada, muriendo en cumplimiento de su deber. Con la ayuda de una tecnología como de película, su alma fue compactada en un archivo dentro de un USB, siendo inmortalizada para siempre. Posteriormente fue encontrada por Mungus, y su alma fue inyectada en esa radio rosa.",
+    "tags": ["pet", "cat", "radio"]
+  },
+  {
+    "id": 58,
+    "name": "Gus",
+    "initials": "G",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "arma",
+    "description": "Originalmente, los Gatlians vivían aislados en su planeta natal.  La situación cambió cuando el contrabandista Rel Delmar, en colaboración con el líder del cártel Garmantuous, trajo a un científico criminal llamado Dr. Gurgula al planeta.  Gurgula liberó una plaga zombie que aniquiló a la mayor parte de la población gatlian, dejando solo a unos pocos inmunizados que formaron una resistencia liderada por Lezduit. Captura y Modificación, Tras la derrota de la resistencia y la muerte de Lezduit, los Gatlians supervivientes fueron capturados por el G3.  Este grupo realizó experimentos brutales: a los Gatlians muertos o inconscientes se les modificaron los cuerpos y cerebros para convertirlos en armas vivientes.  Gus es una variante más grande que funciona como un arma tipo escopeta, con la capacidad de disparar discos en las paredes para ayudar al jugador a escalar y atraer enemigos.  Fue liberado por el protagonista, Kenny, después de que este derrotara a su comandante, Krubis.",
+    "tags": ["friend", "green", "shotgun"]
+  },
+  {
+    "id": 59,
+    "name": "Sweezy",
+    "initials": "S",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "arma",
+    "description": "Sweezy es una Gatlian (arma viva alienígena) del videojuego High on Life, originaria del planeta Gatlus.  Fue adquirida por el jugador, conocido como Bounty Hunter, tras derrotar al jefe Douglas (quien se hacía llamar Dr. Joopy) durante la misión de venganza contra el G3 Cartel.",
+    "tags": ["grosera", "agresiva", "pervertida"]
+  },
+  {
+    "id": 60,
+    "name": "Creature",
+    "initials": "C",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "arma",
+    "description": "Creature es un Gatlian y arma en el videojuego High On Life, originariamente conocido como el brillante científico Professor Creed Turian del planeta Gatlus.  Antes de la invasión del G3 Cartel, Turian cofundó la resistencia gatlian junto a su pareja, el Coronel Smithon Wesson, desarrollando armaduras para la lucha. Tras ser capturado y torturado por el G3, su mente fue devastada y su cuerpo modificado para que pudiera dar a luz a pequeñas criaturas útiles para el combate y la exploración. A pesar de haber perdido su memoria y su intelecto, se mantiene como un personaje amable y cordial, siendo el único Gatlian que intenta hablar con Kenny después de que este traicionara a su especie. Su historia se revela a través de flashbacks en el cómic complementario del juego, mostrando su pasado como líder de la resistencia y su trágica caída. ",
+    "tags": ["mejor amigo", "compresivo", "vondadoso"]
+  },
+  {
+    "id": 61,
+    "name": "Lezduit",
+    "initials": "L",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "arma",
+    "description": "La historia de Lezduit, un Gatlian de la franquicia High On Life, comienza en el planeta Gatlus, donde fue un líder de la resistencia y un héroe legendario que luchó contra el G3 Cartel antes de ser dado por muerto. Tras ser resucitado por el personaje Gene (quien accidentalmente dañó sus centros del habla), Lezduit puede decir únicamente su propio nombre y aparece con una apariencia battered, siendo comparado con Clint Eastwood en contraste con Kenny.  A pesar de su discapacidad verbal, es descrito como extremadamente poderoso, capaz de generar múltiples explosiones de energía, y juega un papel crucial en la derrota final del G3, perdonando a Kenny por su traición previa. En la secuela, High On Life 2, se revela que Lezduit ha formado una relación con la madre del protagonista, teniendo con ella un hijo híbrido humano-Gatlian llamado Jeppy, quien hereda la condición de no poder hablar más que su nombre. ",
+    "tags": ["tonto", "padrastro", "fuerte"]
+  },
+  {
+    "id": 62,
+    "name": "Knifey",
+    "initials": "K",
+    "game": "High on Life",
+    "franchise": "HIGHONLIFE",
+    "role": "arma",
+    "description": "Knifey es un cuchillo parlante de origen australiano y el único arma cuerpo a cuerpo utilizable en High on Life, caracterizado por su sed de sangre, su lenguaje soez y su habilidad para trepar mediante un enganche similar a una entraña. Origen y exilio: Provienen del planeta Australia-II, donde fue exiliado por su excesiva violencia; llegó a la Tierra donde trabajó con Gene Zaroothian antes de ser vendido a la familia Torg. Adquisición por el Cazarrecompensas: El jugador lo recupera durante la misión de 9-Torg en la lavandería de los barrios bajos, uniéndose al equipo tras ayudarle a eliminar a sus captores. DLC High on Knife: Ambientado dos años después, Knifey busca un paquete de su mundo natal en el planeta Peroxis.  Al descubrir que su pueblo pacifista lo rechazó por su naturaleza violenta, entra en un frenesí asesino, masacrando a su especie y afirmando su lealtad hacia el Cazarrecompensas y sus compañeros gatlianos.",
+    "tags": ["psicopata", "agresivo", "amable"]
+  }
+]
